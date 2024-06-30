@@ -24,6 +24,6 @@ Cada geração de alunos cumpre uma jornada de 6 meses, dividida em 4 trilhas di
 
 O conteúdo no GitHub está estruturado por cursos, com pastas individuais para cada curso contendo todo o material desenvolvido. Isso ajuda na organização e gestão dos recursos de cada curso.
 
-## Certificados emitido pela Alura Latam 🏅
+## Certificados emitidos pela Alura Latam 🏅
 
 Em caso de cursos finalizados, você encontrará todos os certificados em suas respectivas pastas.
